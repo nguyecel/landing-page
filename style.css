@@ -1,0 +1,47 @@
+body {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.one {
+    background-color: #1F2937;
+    height: 300px;
+    width: auto;
+    display: flex;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.two {
+    text-align: center;
+    height: 300px;
+
+}
+
+.info {
+    font-size: 32px;
+    color: black;
+    margin-bottom: 50px;
+}
+
+.img-container {
+    display: flex;
+    justify-content: center;
+    gap: 32px;
+}
+
+.three {
+    background-color: #E5E7EB;
+}
